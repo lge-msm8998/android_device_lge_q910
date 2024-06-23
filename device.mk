@@ -121,7 +121,7 @@ PRODUCT_SHIPPING_API_LEVEL := 27
 
 # Vibrator
 PRODUCT_PACKAGES += \
-    vendor.qti.hardware.vibrator.service
+    android.hardware.vibrator-service.legacy
 
 # Inherit proprietary blobs
 $(call inherit-product, vendor/lge/phoenix_sprout/phoenix_sprout-vendor.mk)
