@@ -6,4 +6,4 @@
 
 
 PRODUCT_MAKEFILES += \
-    $(LOCAL_DIR)/lineage_phoenix_sprout.mk
+    $(LOCAL_DIR)/lineage_q910.mk
